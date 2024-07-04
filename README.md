@@ -1,3 +1,30 @@
+# Output
+
+
+![Screenshot 2024-07-04 153846](https://github.com/RohitRawat2001/AdminDashboard/assets/89390966/1e6c2733-d12b-451d-a8db-9229255c8f75)
+
+
+
+
+
+![Screenshot 2024-07-04 153906](https://github.com/RohitRawat2001/AdminDashboard/assets/89390966/396ada80-f9b3-44b9-bab7-ee7770a0c42b)
+
+
+
+
+
+
+
+
+![Screenshot 2024-07-04 153937](https://github.com/RohitRawat2001/AdminDashboard/assets/89390966/3342f000-920d-4e89-9c57-172d32bd658e)
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
